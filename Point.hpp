@@ -1,3 +1,4 @@
+// TEST
 // Point.hpp
 //
 // ICS 46 Spring 2014
@@ -12,7 +13,7 @@
 #define POINT_HPP
 
 #include <cmath>
-
+#include <vector>
 
 
 // It might seem a bit odd for a class as simple as Point to be a template
